@@ -1,2 +1,5 @@
 secrets.txt
 .DS_Store
+
+# # means a comment
+# * is a wild card
